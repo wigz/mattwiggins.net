@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <span>mattwiggins.net</span>
 </template>
 
 <script lang="ts">
